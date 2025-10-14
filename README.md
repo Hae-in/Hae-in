@@ -36,7 +36,7 @@
 
 | Period | Description |
 |:-------------------:|:--------------------:|
-| `2025.08 ~ ing`|멋쟁이사자처럼 백앤드 19기|
+| `2025.08 ~ ing`|멋쟁이사자처럼 백엔드 19기|
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer)
